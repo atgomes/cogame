@@ -1,0 +1,7 @@
+Deuterium Costs for Flights:
+In system:
+1 + ROUND[fuel * ((1 + 0.005 * (Number of planets)) / 35) * (% / 100 + 1) ^ 2]
+Between Systems:
+1 + ROUND[fuel * ((2.7 + 0.095 * (Number of systems)) / 35) * (% / 100 + 1) ^ 2]
+Between Galaxies:
+1 + ROUND[fuel * ((20 * (Number of galaxies)) / 35) * (% / 100 + 1) ^ 2]

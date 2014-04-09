@@ -1,0 +1,5 @@
+C:\Users\André\Documents\Visual Studio 2012\Projects\COgamev2\COgame_Calc\bin\Debug\COgame_Calc.dll
+C:\Users\André\Documents\Visual Studio 2012\Projects\COgamev2\COgame_Calc\bin\Debug\COgame_Calc.pdb
+C:\Users\André\Documents\Visual Studio 2012\Projects\COgamev2\COgame_Calc\obj\Debug\COgame_Calc.dll
+C:\Users\André\Documents\Visual Studio 2012\Projects\COgamev2\COgame_Calc\obj\Debug\COgame_Calc.pdb
+C:\Users\André\Documents\Visual Studio 2012\Projects\COgamev2\COgame_Calc\obj\Debug\COgame_Calc.csprojResolveAssemblyReference.cache
